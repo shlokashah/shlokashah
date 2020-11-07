@@ -10,6 +10,12 @@ I'm ***Shloka Shah***
  
  
  ![Github stats](https://github-readme-stats.vercel.app/api?username=shlokashah)
+ 
+ ### Most used Languages and Frequent Topics 
+|![image](https://github.com/shlokashah/shlokashah/blob/master/docs/languages.png?raw=True)| ![image](https://github.com/shlokashah/shlokashah/blob/master/docs/topics.png?raw=True)|
+|--|--|
+|  |  |
+
 
 
 
