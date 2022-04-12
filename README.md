@@ -9,7 +9,9 @@ I'm ***Shloka Shah***
  - GHCI'20 Scholar | SIH'20 Finalist
  - Final Year Computer Science Student from Sardar Patel Institute of Technology.
 
- 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shlokashah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shlokashah/0" alt="Recent Article 0"> 
+
  
  ![Github stats](https://github-readme-stats.vercel.app/api?username=shlokashah)
  
