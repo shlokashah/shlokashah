@@ -9,7 +9,7 @@ I'm ***Shloka Shah***
  - Interned at HackerRank as SDE Intern 
  - GHCI'20 Scholar | SIH'20 Finalist
  - Final Year Computer Science Student from Sardar Patel Institute of Technology.
- - I share my learnings & experiences in <a href="https://blog.shlokashah.com/">my Blog.</a>
+ - I share my learnings & experiences in my <a href="https://blog.shlokashah.com/">Blog.</a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shlokashah)
  
